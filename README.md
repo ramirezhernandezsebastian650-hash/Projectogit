@@ -4,3 +4,7 @@
 - Pepe
 - Andres
 - Julio
+
+| Titulo 1 | Titulo 2 |
+|----------|----------|
+|Contenido | Contenido|
